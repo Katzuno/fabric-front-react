@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To start the app do the following:
+
+### `npm install`
+### `npm start`
+
+This app implements a simple interface that is using almost all endpoints from Laravel API.
+It's a table with all buttons in place, including in line edit.
+Below the table you will find a form to add records.
+Above the tables you can search using ElasticSearch. (it searches everywhere, just type something, I didn't implement filter by a certain field).
+
+
+We don't have any tests here.
+
 ## Available Scripts
 
 In the project directory, you can run:
